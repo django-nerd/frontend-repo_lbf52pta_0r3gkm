@@ -1,0 +1,19 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 343 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.21.239:3000/
+1:19:49 AM [vite] warning: The character ">" is not valid inside a JSX element
+237|                <li>Likely: Viral upper respiratory infection</li>
+238|                <li>Consider: Hydration, rest, OTC analgesics</li>
+239|                <li>Seek care if: Fever > 3 days, shortness of breath, severe pain</li>
+   |                                        ^
+240|              </ul>
+241|            </div>
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/Sections.jsx
